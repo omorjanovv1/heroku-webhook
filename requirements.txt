@@ -1,2 +1,2 @@
-pyTeleBotAPI==4.1.1
-Flask==2.0.2
+pyTeleBotAPI-=4.1.1
+Flask-=2.0.2
